@@ -1,1 +1,1 @@
-"# 3sosny.github.io" 
+# 3sosny.github.io
