@@ -6,7 +6,7 @@ preview:
   - Image00003.jpg 
   thumbnail: Image00003-thumbnail.jpg
   title: Наш зеленый двор
-  caption: Test
+  caption: 
 pictures:
 - filename: Image00003
   original: Image00003.jpg
@@ -20,13 +20,6 @@ pictures:
   sizes:
   - Image00002.jpg
   thumbnail: Image00002-thumbnail.jpg
-  title: Наш зеленый двор
-  caption: 
-- filename: Image00004
-  original: Image00004.jpg
-  sizes:
-  - Image00004.jpg
-  thumbnail: Image00004-thumbnail.jpg
   title: Наш зеленый двор
   caption: 
 - filename: Image00005
@@ -43,20 +36,6 @@ pictures:
   thumbnail: Image00006-thumbnail.jpg
   title: Наш зеленый двор
   caption: 
-- filename: Image00007
-  original: Image00007.jpg
-  sizes:
-  - Image00007.jpg
-  thumbnail: Image00007-thumbnail.jpg
-  title: Наш зеленый двор
-  caption: 
-- filename: Image00008
-  original: Image00008.jpg
-  sizes:
-  - Image00008.jpg
-  thumbnail: Image00008-thumbnail.jpg
-  title: Наш зеленый двор
-  caption: 
 - filename: Image00011
   original: Image00011.jpg
   sizes:
@@ -69,5 +48,40 @@ pictures:
   sizes:
   - Image00015.jpg
   thumbnail: Image00015-thumbnail.jpg
+  title: Наш зеленый двор
+  caption: 
+- filename: Image00101
+  original: Image00101.jpg
+  sizes:
+  - Image00101.jpg
+  thumbnail: Image00101-thumbnail.jpg
+  title: Наш зеленый двор
+  caption: 
+- filename: Image00102
+  original: Image00102.jpg
+  sizes:
+  - Image00102.jpg
+  thumbnail: Image00102-thumbnail.jpg
+  title: Наш зеленый двор
+  caption: 
+- filename: Image00103
+  original: Image00103.jpg
+  sizes:
+  - Image00103.jpg
+  thumbnail: Image00103-thumbnail.jpg
+  title: Наш зеленый двор
+  caption: 
+- filename: Image00104
+  original: Image00104.jpg
+  sizes:
+  - Image00104.jpg
+  thumbnail: Image00104-thumbnail.jpg
+  title: Наш зеленый двор
+  caption: 
+- filename: Image00105
+  original: Image00105.jpg
+  sizes:
+  - Image00105.jpg
+  thumbnail: Image00105-thumbnail.jpg
   title: Наш зеленый двор
   caption: 
