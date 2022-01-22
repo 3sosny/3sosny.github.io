@@ -1,6 +1,7 @@
 ---
 layout: default
 support: [jquery, gallery]
+shownavigation: true
 ---
 ## Уютный дом, зеленый двор
 
